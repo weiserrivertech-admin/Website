@@ -57,4 +57,5 @@ a {
 
 .nav-button:hover {
     background-color: #71f51f;
+    transform: scale(15px);
 }
