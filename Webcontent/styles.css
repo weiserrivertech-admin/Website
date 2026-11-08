@@ -1,0 +1,59 @@
+/*
+
+    Author: Brandon Stowe
+    Date Initalized: 11-7-2026
+
+*/
+
+/*
+header {
+    align-items: center;
+    justify-content: center;
+}
+*/
+
+
+body {
+    background-color: #065212;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+nav {
+    justify-content: center;
+    align-items: center;
+    border: solid;
+    display: flex;
+    background-color: #000000;
+
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+
+    
+}
+
+li {
+    padding: 5px;
+    text-align: center;
+    border: solid;
+    border-radius: 5px;
+    background-color: #ffffff;
+
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+
+}
+
+.nav-button:hover {
+    background-color: #71f51f;
+}
