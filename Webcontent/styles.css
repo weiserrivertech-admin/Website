@@ -116,6 +116,10 @@ main {
     margin-inline: 5px;
 }
 
+.alert {
+    color: #ff0000;
+}
+
 .insta-div {
     border: solid;
     border-radius: 20px;
