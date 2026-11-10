@@ -65,6 +65,7 @@ li {
     border: solid;
     border-radius: 5px;
     background-color: #ffffff;
+    position: relative;
 
 }
 
@@ -78,10 +79,60 @@ a {
     background-color: #71f51f;
     transform: scale(15px);
 }
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%; /* Places it right under the main nav item */
+    left: 0;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    z-index: 1;
+}
+
+    /* Dropdown links */
+    .dropdown-menu a {
+        color: #333;
+        padding: 5px 10px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+
+        /* Hover effect for dropdown links */
+        .dropdown-menu a:hover {
+            background-color: #71f51f;
+            border: dashed;
+            border-radius: 5px;
+        }
+
+/* SHOW the dropdown menu when hovering over the parent list item */
+.nav-button:hover .dropdown-menu {
+    display: block;
+}
+
+
+.button {
+    border:solid 3px;
+    border-radius: 5px;
+    border-color: #000000;
+    background-color: #5ebe2e;
+}
 
 .button:hover {
     background-color: #71f51f;
     border: solid;
+    border-radius: 5px;
+}
+
+
+
+.button2:hover {
+    background-color: #71f51f;
+    border: dotted;
     border-radius: 5px;
 }
 
@@ -115,6 +166,15 @@ main {
     margin: 10px;
     margin-inline: 5px;
 }
+
+.gpu-list {
+    background-color: #5ebe2e;
+}
+    .gpu-list:hover {
+        background-color: #71f51f;
+        border: solid;
+        border-radius: 5px;
+    }
 
 .alert {
     color: #ff0000;
