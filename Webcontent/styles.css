@@ -149,6 +149,10 @@ main {
     background-color: #5ebe2e;
 }
 
+.title {
+    font-size: 25px;
+}
+
 .xbox-div {
     border: solid;
     border-radius: 20px;
@@ -190,6 +194,7 @@ main {
 }
 
 .icons {
+    transform: scale(2);
 }
 
 footer {
