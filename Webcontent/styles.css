@@ -14,18 +14,36 @@ header {
 
 
 body {
-    background-color: #065212;
+    /*background-color: #065212;*/
+    background-image: url('WRT-logo-HiRes.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    opacity: 5;
     text-decoration: none;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+}
+
+header {
+    border: solid;
+    border-radius: 10px;
+    border-color: #8a6404;
+    color: #1478e6;
+    background-color: #4e4f4e;
+    position: relative;
+    padding-bottom: 10px;
+    display: inline-block;
 }
 
 nav {
-    justify-content: center;
+    /*justify-content: center;*/
+    margin: 10px;
     align-items: center;
     border: solid;
     border-radius: 25px;
+    border-color: #8a6404;
     display: flex;
     background-color: #4e4f4e;
 
@@ -58,4 +76,24 @@ a {
 .nav-button:hover {
     background-color: #71f51f;
     transform: scale(15px);
+}
+
+.button:hover {
+    background-color: #71f51f;
+    border: solid;
+    border-radius: 5px;
+}
+
+main {
+    border: solid 5px;
+    border-radius: 25px;
+    border-color: #8a6404;
+    background-color: #5ebe2e;
+}
+
+footer {
+    border: solid;
+    border-radius: 25px;
+    border-color: #8a6404;
+    background-color: #4e4f4e;
 }
