@@ -122,11 +122,11 @@ a {
     background-color: #5ebe2e;
 }
 
-.button:hover {
-    background-color: #71f51f;
-    border: solid;
-    border-radius: 5px;
-}
+    .button:hover {
+        background-color: #71f51f;
+        border: solid;
+        border-radius: 5px;
+    }
 
 
 
@@ -187,6 +187,9 @@ main {
     text-align: left;
     margin: 10px;
     margin-inline: 5px;
+}
+
+.icons {
 }
 
 footer {
