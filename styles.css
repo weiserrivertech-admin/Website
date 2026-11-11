@@ -181,7 +181,7 @@ main {
     background-color: #5ebe2e;
 }
     .gpu-list:hover {
-        background-color: #71f51f;
+        background-color: #ff0000;
         border: solid;
         border-radius: 5px;
     }
