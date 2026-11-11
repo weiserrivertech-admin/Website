@@ -199,6 +199,12 @@ main {
     margin-inline: 5px;
 }
 
+.video-player {
+    border: solid;
+    border-radius: 25px;
+    border-color: #5ebe2e;
+}
+
 .insta-div {
     border: solid;
     border-radius: 20px;
