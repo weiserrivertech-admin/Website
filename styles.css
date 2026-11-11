@@ -189,6 +189,15 @@ main {
     color: #ff0000;
 }
 
+.content-creation-div {
+    border: solid;
+    border-radius: 20px;
+    background-color: #4e4f4e;
+    text-align: left;
+    margin: 10px;
+    margin-inline: 5px;
+}
+
 .insta-div {
     border: solid;
     border-radius: 20px;
@@ -197,6 +206,7 @@ main {
     margin: 10px;
     margin-inline: 5px;
 }
+
 
 .icons:hover {
     transform: scale(2);
