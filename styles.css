@@ -147,6 +147,7 @@ img {
     border-color: #5ebe2e;
 }
 
+
 main {
     border: solid 5px;
     border-radius: 25px;
@@ -207,11 +208,6 @@ main {
     margin-inline: 5px;
 }
 
-
-.icons:hover {
-    transform: scale(2);
-    transform: translateX(10px) translateY(10px);
-}
 
 footer {
     border: solid;
