@@ -1,0 +1,43 @@
+body {
+    /*background-color: #065212;*/
+    background-image: url('WRT-logo-HiRes.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    opacity: 5;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+    border: solid;
+    border-radius: 10px;
+    border-color: #8a6404;
+    color: #5ebe2e;
+    background-color: #4e4f4e;
+    padding-bottom: 10px;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: circle;
+    text-align: left;
+    margin: 10px;
+}
+
+main {
+    border: solid 5px;
+    border-radius: 25px;
+    border-color: #8a6404;
+    background-color: #5ebe2e;
+    text-align: left;
+}
+
+footer {
+    border: solid;
+    border-radius: 25px;
+    border-color: #8a6404;
+    background-color: #4e4f4e;
+}
