@@ -197,6 +197,7 @@ main {
     text-align: left;
     margin: 10px;
     margin-inline: 5px;
+    padding: 5px;
 }
 
 .video-player {
