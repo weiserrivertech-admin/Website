@@ -206,7 +206,20 @@ main {
     border-color: #5ebe2e;
 }
 
-.insta-div {
+.insta-reels {
+    display: inline-block !important;
+    vertical-align: top !important;
+    width: 300px !important;
+    min-width: 300px !important;
+    max-width: 300px !important;
+    height: 450px !important;
+    max-height: 450px !important;
+    border: solid !important;
+    border-radius: 25px !important;
+    border-color: #5ebe2e !important;
+}
+
+.socials-div {
     border: solid;
     border-radius: 20px;
     background-color: #4e4f4e;
