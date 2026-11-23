@@ -1,0 +1,78 @@
+<!DOCTYPE html/>
+<html lang="en">
+
+    <head>
+
+        <title>Weiser River Tech Privacy Policy</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/png" href="WRTlogo-nobackground.png">
+        <link rel="stylesheet" href="policy.css">
+
+    </head>
+    <body>
+        <header>
+            <h1>Weiser River Tech Website Privacy Policy</h1>
+            <h1>Effective as of November 21, 2026</h1>
+        </header>
+
+        <main class="policy-organization">
+            <h2>Overview:</h2>
+            <p1>
+                Weiser River Tech is dedicated to your privacy as you visit our website. Here, you will see just how your data is handled on our website. Upfront, We do not handle Personally Identifiable Information (PII) as far as Direct Identifiers (Names, Emails, phone numbers, etc). 
+                The only data processed are automated online identifiers and analytics data, which are processed via website cookies.
+            </p1>
+            <h3>I. Website Cookie Utilization:</h3>
+            <p>
+                We utilize the use of cookies for the best user experience as you visit our website. There are only two ways that cookies are utilized on our website:
+                1. Embedded Content from our socials
+                2. Analytics for website viewership
+                : Website Cookies shall not be used for any other practice, at any given time. Therefore website cookies shall not be used for collection of direct PII and sensitive information.
+
+            </p>
+            <h4>A. Embedded Content from our socials:</h4>
+            <p>
+                Per consequence of our embedding of our content creation, in our website, cookies are utilized. For more information on how our socials use cookies, 
+                here are the associated links that will take you to their respective documentation:
+                <a href="https://privacycenter.instagram.com/policies/cookies/">Instagram Privacy Center Cookie Policy</a> ;
+                <a href="https://policies.google.com/technologies/cookies/embedded?hl=en-US&client_theme=dark">Google Cookie Policy</a>
+            </p>
+            <h4>B. Analytics for website viewership:</h4>
+            <p>
+                We utilize google analytics to offer us information that is beneficial to helping us in the development of our website. No other data will be taken at any given time, while the user visits the website.
+                This section will describe in detail how cookies are used in our usage of Google Analytics.
+            </p>
+            <h4>1. Measurement of Active users within following timeframes:</h4>
+            <p>a. Past seven days</p>
+            <p>b. Past 60 seconds</p>
+            <p>c. Past 30 seconds</p>
+            <h4>2. Measurement of the total number of Events within the past seven days</h4>
+            <h4>3. Measurement of the total number of Key Events within the past seven days</h4>
+            <h4>4. IP anonymization/masking is enabled to evaluate aggregate traffic trends without creating individual user profiles</h4>
+            <p>
+                Viewing or interacting with pages containing embedded content allows third-party platforms to set cookies and process data from your browser.  For more information on Google’s usage of cookies,
+                navigate to their cookie policy here:
+                <a href="https://policies.google.com/technologies/cookies/embedded?hl=en-US&client_theme=dark">Google Analytics Cookie Policy </a>
+                : if you would like to opt out of google analytics’ usage of cookies, navigate to their opt out tool here:
+                <a href="https://tools.google.com/dlpage/gaoptout">Google Analytics Opt-Out</a>
+                : You can also opt-out by directly updating your web browser’s settings (Chrome, Edge, Firefox, Safari, etc.).
+            </p>
+            <h4>C. What cookies shall not be utilized for:</h4>
+            <p>As stated above, here is the list of things that we shall not, at any given point in time, use cookies: </p>
+            <h4>1. Names of website users</h4>
+            <h4>2. Contact Information (emails, phone numbers, residential addresses, etc).</h4>
+            <h4>3. Sensitive information such as Government issued identification (Social Security Information, Tax information, etc.)</h4>
+            
+
+        </main>
+
+        <footer>
+            <h3>II. Administrative Disclosures:</h3>
+            <h4>Effective Date: 11-20-2026</h4>
+            <h4>Last Edited: 11-20-2026</h4>
+            <h4>Contact Info: <a href="mailto:weiserrivertech@gmail.com">weiserrivertech@gmail.com</a></h4>
+        </footer>
+
+    </body>
+
+</html>

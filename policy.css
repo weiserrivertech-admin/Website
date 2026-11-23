@@ -9,6 +9,7 @@ body {
     text-decoration: none;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 
 header {
@@ -19,20 +20,33 @@ header {
     background-color: #4e4f4e;
     padding-bottom: 10px;
     padding: 10px;
+
 }
 
-ul {
-    list-style-type: circle;
-    text-align: left;
-    margin: 10px;
-}
 
-main {
+
+
+.policy-organization {
     border: solid 5px;
     border-radius: 25px;
     border-color: #8a6404;
     background-color: #5ebe2e;
-    text-align: left;
+
+
+}
+    .policy-organization ul {
+        list-style-type: lower-alpha;
+        list-style-position: inside;
+        align-items: center;
+
+    }
+    .policy-organization a {
+        text-decoration: none;
+
+    }
+
+a {
+    text-decoration: none;
 }
 
 footer {
@@ -40,4 +54,5 @@ footer {
     border-radius: 25px;
     border-color: #8a6404;
     background-color: #4e4f4e;
+
 }
