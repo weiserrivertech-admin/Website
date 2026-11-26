@@ -134,10 +134,22 @@ a {
     }
 
 
-
+.button2 {
+    padding: 2px;
+    display: inline-block;
+    background-color: #096723;
+    align-items: center;
+    justify-content: center;
+    border:solid;
+    border-radius: 5px;
+}
 .button2:hover {
+    padding: 2px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
     background-color: #71f51f;
-    border: dotted;
+    border: solid;
     border-radius: 5px;
 }
 
